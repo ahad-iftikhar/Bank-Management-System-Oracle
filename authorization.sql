@@ -1,0 +1,1 @@
+GRANT SELECT ON c_accounts TO c##usman;
